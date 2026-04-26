@@ -4,4 +4,4 @@
   <img alt="Título do meu perfil" src="./assets/svg-header-light.svg" width="100%">
 </picture> -->
 
-<img src="./assets/svg-header-dark.svg" alt="Título do meu perfil" width="100%">
+<img src="/assets/svg-header-dark.svg" alt="Título do meu perfil" width="100%">
