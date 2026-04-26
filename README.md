@@ -4,6 +4,32 @@ Desenvolvedor de Software focado em sistemas de alta performance, arquiteturas r
 
 ---
 
+# 🏆 Projeto de Alta Performance
+
+<table>
+  <tr>
+    <td valign="top">
+      <h2>O Desafio</h2>
+      Otimizar o carregamento de uma landing page complexa, reduzindo o bundle size e melhorando o SEO. 
+      Utilizando <b>Astro</b>, conseguimos uma pontuação de 100 no Lighthouse.
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/300x200" alt="Lighthouse Score">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📸 Galeria de Telas
+
+<div align="center">
+  <img src="https://via.placeholder.com/200" width="45%"> 
+  <img src="https://via.placeholder.com/200" width="45%">
+</div>
+
+---
+
 ### 🛠 Tecnologias e Ferramentas
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
