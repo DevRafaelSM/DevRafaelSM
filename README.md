@@ -70,11 +70,13 @@ Tecnologias utilizadas:
 
 ---
 
-## Estatísticas do GitHub
+## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEVRAFAELSM&show_icons=true&theme=github_dark&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=DEVRAFAELSM&style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVRAFAELSM&layout=compact&theme=github_dark&hide_border=true)
+Meu GitHub reúne projetos, estudos e experimentos relacionados a desenvolvimento de software, APIs, interfaces web e performance.
+
+[![GitHub](https://img.shields.io/badge/Ver%20perfil%20no%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEVRAFAELSM)
 
 ---
 
